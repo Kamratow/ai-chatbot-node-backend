@@ -1,0 +1,12 @@
+{
+  "name": "ai-chatbot-node-backend",
+  "version": "1.0.0",
+  "description": "Backend implementation of ai chatbot using node. Based on the youtube tutorial you can find here: https://www.youtube.com/watch?v=OJ7AgZVH118&list=PLOvIwkWvHysNRNjLPcHHAWXrLzRkl__kR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
