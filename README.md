@@ -8,7 +8,7 @@ Based on the youtube tutorial you can find here: https://www.youtube.com/playlis
 Before you run this project you will need to create an account on OpenAI platform portal:
 https://platform.openai.com/
 
-After you will have your account created make sure to create openai api key
+After you will have your account created make sure to create openai api key.
 You can rely here either on personal API key (currently considered legacy) or project API key.
 After getting the key on the screen remember to copy it to a safe place as you won't be able to retrieve it again.
 Second value needed from OpenAI platform will be organization ID.
